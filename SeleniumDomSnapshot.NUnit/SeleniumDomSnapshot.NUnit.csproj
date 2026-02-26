@@ -10,6 +10,9 @@
     <PackageId>SeleniumDomSnapshot.NUnit</PackageId>
     <Version>1.0.0</Version>
     <Authors>Piotr Burzała</Authors>
+	<PackageProjectUrl>https://github.com/JonnyJalapeno/SeleniumDomSnapshot</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/JonnyJalapeno/SeleniumDomSnapshot</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
     <Description>NUnit integration for SeleniumDomSnapshot. Provides the [DomSnapshot] attribute for automatic DOM capture on test pass/fail.</Description>
     <PackageTags>selenium nunit testing dom diff snapshot</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>

@@ -10,6 +10,9 @@
     <PackageId>SeleniumDomSnapshot</PackageId>
     <Version>1.0.0</Version>
     <Authors>Piotr Burzała</Authors>
+	<PackageProjectUrl>https://github.com/JonnyJalapeno/SeleniumDomSnapshot</PackageProjectUrl>
+	<RepositoryUrl>https://github.com/JonnyJalapeno/SeleniumDomSnapshot</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
     <Description>Captures and diffs DOM snapshots during Selenium test runs. Helps diagnose why tests broke by showing exactly what changed in the page structure.</Description>
     <PackageTags>selenium webdriver testing dom diff snapshot</PackageTags>
     <PackageReadmeFile>README.md</PackageReadmeFile>
